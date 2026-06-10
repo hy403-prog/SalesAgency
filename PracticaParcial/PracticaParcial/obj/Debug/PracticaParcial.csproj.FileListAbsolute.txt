@@ -1,0 +1,56 @@
+C:\Users\Erick\OneDrive\Desktop\ejercicios progra\PracticaParcial\PracticaParcial\obj\Debug\PracticaParcial.csproj.AssemblyReference.cache
+C:\Users\Erick\OneDrive\Desktop\ejercicios progra\PracticaParcial\PracticaParcial\obj\Debug\PracticaParcial.Form1.resources
+C:\Users\Erick\OneDrive\Desktop\ejercicios progra\PracticaParcial\PracticaParcial\obj\Debug\PracticaParcial.Properties.Resources.resources
+C:\Users\Erick\OneDrive\Desktop\ejercicios progra\PracticaParcial\PracticaParcial\obj\Debug\PracticaParcial.csproj.GenerateResource.cache
+C:\Users\Erick\OneDrive\Desktop\ejercicios progra\PracticaParcial\PracticaParcial\obj\Debug\PracticaParcial.csproj.CoreCompileInputs.cache
+C:\Users\Erick\OneDrive\Desktop\ejercicios progra\PracticaParcial\PracticaParcial\bin\Debug\PracticaParcial.exe.config
+C:\Users\Erick\OneDrive\Desktop\ejercicios progra\PracticaParcial\PracticaParcial\bin\Debug\PracticaParcial.exe
+C:\Users\Erick\OneDrive\Desktop\ejercicios progra\PracticaParcial\PracticaParcial\bin\Debug\PracticaParcial.pdb
+C:\Users\Erick\OneDrive\Desktop\ejercicios progra\PracticaParcial\PracticaParcial\obj\Debug\PracticaParcial.exe
+C:\Users\Erick\OneDrive\Desktop\ejercicios progra\PracticaParcial\PracticaParcial\obj\Debug\PracticaParcial.pdb
+C:\Users\Erick\OneDrive\Desktop\ejercicios progra\PracticaParcial\PracticaParcial\obj\Debug\PracticaParcial.exe.config
+C:\Users\Erick\OneDrive\Desktop\ejercicios progra\PracticaParcial\PracticaParcial\obj\Debug\PracticaParcial.FrmCliente.resources
+C:\Users\Erick\OneDrive\Desktop\ejercicios progra\PracticaParcial\PracticaParcial\obj\Debug\PracticaParcial.FrmMenuPrincipal.resources
+D:\Escritorio\PracticaParcial (1)\PracticaParcial\PracticaParcial\bin\Debug\PracticaParcial.exe.config
+D:\Escritorio\PracticaParcial (1)\PracticaParcial\PracticaParcial\bin\Debug\PracticaParcial.exe
+D:\Escritorio\PracticaParcial (1)\PracticaParcial\PracticaParcial\bin\Debug\PracticaParcial.pdb
+D:\Escritorio\PracticaParcial (1)\PracticaParcial\PracticaParcial\obj\Debug\PracticaParcial.csproj.AssemblyReference.cache
+D:\Escritorio\PracticaParcial (1)\PracticaParcial\PracticaParcial\obj\Debug\PracticaParcial.exe.config
+D:\Escritorio\PracticaParcial (1)\PracticaParcial\PracticaParcial\obj\Debug\PracticaParcial.Form1.resources
+D:\Escritorio\PracticaParcial (1)\PracticaParcial\PracticaParcial\obj\Debug\PracticaParcial.FrmCliente.resources
+D:\Escritorio\PracticaParcial (1)\PracticaParcial\PracticaParcial\obj\Debug\PracticaParcial.FrmMenuPrincipal.resources
+D:\Escritorio\PracticaParcial (1)\PracticaParcial\PracticaParcial\obj\Debug\PracticaParcial.Properties.Resources.resources
+D:\Escritorio\PracticaParcial (1)\PracticaParcial\PracticaParcial\obj\Debug\PracticaParcial.csproj.GenerateResource.cache
+D:\Escritorio\PracticaParcial (1)\PracticaParcial\PracticaParcial\obj\Debug\PracticaParcial.csproj.CoreCompileInputs.cache
+D:\Escritorio\PracticaParcial (1)\PracticaParcial\PracticaParcial\obj\Debug\PracticaParcial.exe
+D:\Escritorio\PracticaParcial (1)\PracticaParcial\PracticaParcial\obj\Debug\PracticaParcial.pdb
+D:\Escritorio\ARCHIVOS\PracticaParcial (1)\PracticaParcial\PracticaParcial\obj\Debug\PracticaParcial.csproj.AssemblyReference.cache
+D:\Escritorio\ARCHIVOS\PracticaParcial (1)\PracticaParcial\PracticaParcial\obj\Debug\PracticaParcial.exe.config
+D:\Escritorio\ARCHIVOS\PracticaParcial (1)\PracticaParcial\PracticaParcial\obj\Debug\PracticaParcial.Form1.resources
+D:\Escritorio\ARCHIVOS\PracticaParcial (1)\PracticaParcial\PracticaParcial\obj\Debug\PracticaParcial.FrmCliente.resources
+D:\Escritorio\ARCHIVOS\PracticaParcial (1)\PracticaParcial\PracticaParcial\obj\Debug\PracticaParcial.FrmMenuPrincipal.resources
+D:\Escritorio\ARCHIVOS\PracticaParcial (1)\PracticaParcial\PracticaParcial\obj\Debug\PracticaParcial.FrmProveedor.resources
+D:\Escritorio\ARCHIVOS\PracticaParcial (1)\PracticaParcial\PracticaParcial\obj\Debug\PracticaParcial.Properties.Resources.resources
+D:\Escritorio\ARCHIVOS\PracticaParcial (1)\PracticaParcial\PracticaParcial\obj\Debug\PracticaParcial.csproj.GenerateResource.cache
+D:\Escritorio\ARCHIVOS\PracticaParcial (1)\PracticaParcial\PracticaParcial\obj\Debug\PracticaParcial.csproj.CoreCompileInputs.cache
+D:\Escritorio\ARCHIVOS\PracticaParcial (1)\PracticaParcial\PracticaParcial\obj\Debug\PracticaParcial.exe
+D:\Escritorio\ARCHIVOS\PracticaParcial (1)\PracticaParcial\PracticaParcial\obj\Debug\PracticaParcial.pdb
+D:\Escritorio\ARCHIVOS\PracticaParcial (1)\PracticaParcial\PracticaParcial\obj\Debug\PracticaParcial.FrmCategoria.resources
+D:\Escritorio\ARCHIVOS\PracticaParcial (1)\PracticaParcial\PracticaParcial\obj\Debug\PracticaParcial.FrmProducto.resources
+D:\Escritorio\ARCHIVOS\PracticaParcial (1)\PracticaParcial\PracticaParcial\obj\Debug\PracticaParcial.FrmVenta.resources
+D:\Descargas\SalesAgency-main\SalesAgency-main\PracticaParcial\PracticaParcial\obj\Debug\PracticaParcial.csproj.AssemblyReference.cache
+D:\Descargas\SalesAgency-main\SalesAgency-main\PracticaParcial\PracticaParcial\obj\Debug\PracticaParcial.Form1.resources
+D:\Descargas\SalesAgency-main\SalesAgency-main\PracticaParcial\PracticaParcial\obj\Debug\PracticaParcial.FrmCategoria.resources
+D:\Descargas\SalesAgency-main\SalesAgency-main\PracticaParcial\PracticaParcial\obj\Debug\PracticaParcial.FrmCliente.resources
+D:\Descargas\SalesAgency-main\SalesAgency-main\PracticaParcial\PracticaParcial\obj\Debug\PracticaParcial.FrmMenuPrincipal.resources
+D:\Descargas\SalesAgency-main\SalesAgency-main\PracticaParcial\PracticaParcial\obj\Debug\PracticaParcial.FrmProducto.resources
+D:\Descargas\SalesAgency-main\SalesAgency-main\PracticaParcial\PracticaParcial\obj\Debug\PracticaParcial.FrmProveedor.resources
+D:\Descargas\SalesAgency-main\SalesAgency-main\PracticaParcial\PracticaParcial\obj\Debug\PracticaParcial.FrmVenta.resources
+D:\Descargas\SalesAgency-main\SalesAgency-main\PracticaParcial\PracticaParcial\obj\Debug\PracticaParcial.Properties.Resources.resources
+D:\Descargas\SalesAgency-main\SalesAgency-main\PracticaParcial\PracticaParcial\obj\Debug\PracticaParcial.csproj.GenerateResource.cache
+D:\Descargas\SalesAgency-main\SalesAgency-main\PracticaParcial\PracticaParcial\obj\Debug\PracticaParcial.csproj.CoreCompileInputs.cache
+D:\Descargas\SalesAgency-main\SalesAgency-main\PracticaParcial\PracticaParcial\obj\Debug\PracticaParcial.exe
+D:\Descargas\SalesAgency-main\SalesAgency-main\PracticaParcial\PracticaParcial\obj\Debug\PracticaParcial.pdb
+D:\Descargas\SalesAgency-main\SalesAgency-main\PracticaParcial\PracticaParcial\bin\Debug\PracticaParcial.exe.config
+D:\Descargas\SalesAgency-main\SalesAgency-main\PracticaParcial\PracticaParcial\bin\Debug\PracticaParcial.exe
+D:\Descargas\SalesAgency-main\SalesAgency-main\PracticaParcial\PracticaParcial\bin\Debug\PracticaParcial.pdb
